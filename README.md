@@ -1,2 +1,2 @@
 # DOIZI
-Aplicaicón de programación web
+Aplicación de programación web
